@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">This is a Test String notification about note app, you can change it to any title if you want!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="selection">Selection</string>
+</resources>
